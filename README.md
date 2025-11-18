@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">👋 Hey! Eu sou o Guilherme</h1>
 
-<!--
-**GuuilhermeMoreira/GuuilhermeMoreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🌐 Desenvolvedor(a) | 🚀 Entusiasta de Tecnologia | 🎯 Sempre aprendendo algo novo
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 Sobre mim
+
+- 🔭 Atualmente estudo: **Front-end]**
+- 🌱 Aprendendo mais sobre: **js/react**
+- 💡 Outros interesses: **Automações**
+- 🎮 Hobbies: **jogos, música, esportes…**
+- 🤝 Aberto(a) para colaborar em projetos interessantes
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+**Linguagens:**  
+![Langs](https://skillicons.dev/icons?i=js)
+
+**Front-end:**  
+![Front](https://skillicons.dev/icons?i=html,css,react)
+
+**Back-end:**  
+...)
+
+**DevOps / Outros:**  
+![DevOps](https://skillicons.dev/icons?i=git)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuuilhermeMoreira&show_icons=true&theme=tokyonight&hide_border=true)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuuilhermeMoreira&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+
+
