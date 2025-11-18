@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-- 🔭 Atualmente estudo: **Front-end]**
+- 🔭 Atualmente estudo: **Front-end**
 - 🌱 Aprendendo mais sobre: **js/react**
 - 💡 Outros interesses: **Automações**
 - 🎮 Hobbies: **jogos, música, esportes…**
